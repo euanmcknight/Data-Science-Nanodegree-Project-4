@@ -11,9 +11,9 @@ This project aims to create an efficient and accurate image classification syste
 ## Files in the Repository
 
 dog_app.ipynb: Project from start to finish answering project questions with appropriate implementation.
-'/n' dog_app2.ipynb: Duplicate of script that I was unable to delete.
-'/n' README.md: Project overview, motivation and explanation.
-'/n' requirement.txt: Contains a list of required packages, files and images to complete this project.
+<br /> dog_app2.ipynb: Duplicate of script that I was unable to delete.
+<br /> README.md: Project overview, motivation and explanation.
+<br /> requirement.txt: Contains a list of required packages, files and images to complete this project.
 
 ## Summary of Results
 The final model achieved an accuracy of 83.01%.
