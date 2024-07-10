@@ -20,10 +20,10 @@ The final model achieved an accuracy of 83.01%.
 
 ## How to Run
 Clone the repository.
-Install the required libraries, files and images listed in requirements.txt.
-Run dog_app.ipynb.
+<br /> Install the required libraries, files and images listed in requirements.txt.
+<br /> Run dog_app.ipynb.
 
 ## Acknowledgements
-The pre-trained ResNet-50 model was used for feature extraction.
-OpenCV's Haar cascades were used for human face detection.
-Kaggle and StackOverflow for community support and resources.
+<br /> The pre-trained ResNet-50 model was used for feature extraction.
+<br /> OpenCV's Haar cascades were used for human face detection.
+<br /> Kaggle and StackOverflow for community support and resources.
